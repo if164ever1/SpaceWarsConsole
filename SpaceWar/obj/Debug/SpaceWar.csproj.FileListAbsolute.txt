@@ -1,0 +1,7 @@
+D:\IT STEP\C#\Projects\SpaceWar\SpaceWar\obj\Debug\SpaceWar.csprojAssemblyReference.cache
+D:\IT STEP\C#\Projects\SpaceWar\SpaceWar\obj\Debug\SpaceWar.csproj.CoreCompileInputs.cache
+D:\IT STEP\C#\Projects\SpaceWar\SpaceWar\bin\Debug\SpaceWar.exe.config
+D:\IT STEP\C#\Projects\SpaceWar\SpaceWar\bin\Debug\SpaceWar.exe
+D:\IT STEP\C#\Projects\SpaceWar\SpaceWar\bin\Debug\SpaceWar.pdb
+D:\IT STEP\C#\Projects\SpaceWar\SpaceWar\obj\Debug\SpaceWar.exe
+D:\IT STEP\C#\Projects\SpaceWar\SpaceWar\obj\Debug\SpaceWar.pdb
